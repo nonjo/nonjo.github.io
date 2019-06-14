@@ -1,0 +1,18 @@
+baseURL = "https://skeletron.app/"
+headerFontSize = 128
+languageCode = "en-us"
+publishDir = "docs"
+theme = "skeletron"
+title = "skelesite"
+[github]
+[menu]
+	[[menu.footer]]
+		identifier = "about"
+		name = "About"
+		url = "/about/"
+	[[menu.footer]]
+		identifier = "manual"
+		name = "Manual"
+		url = "/manual"
+[params]
+	project_name = "Skeletron"
