@@ -3,7 +3,7 @@ headerFontSize = 128
 languageCode = "en-us"
 publishDir = "/Users/anonnemacher/Sites/github/nonjo.github.io"
 theme = "skeletron"
-title = "skelesite"
+title = "Uncorrected"
 [github]
 [menu]
 	[[menu.footer]]
