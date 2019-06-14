@@ -3,9 +3,6 @@ title: Agenda
 date: 2019-06-14
 draft: true
 ---
-
-# Agenda
-
 Agenda is a productivity app that boasts a distinctive visual style that is hard to ignore. It's effectively a note-taking app, of which there are many for both the Mac and iOS, but some core features distinguish it from this crowded field.
 
 <!--more-->
