@@ -6,10 +6,19 @@
     <description>Recent content on Uncorrected</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Notes on Notes</title>
+      <link>http://localhost:1313/notes-on-notes/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/notes-on-notes/</guid>
+      <description>&lt;p&gt;Notes for iOS and MacOS is better than I remembered&amp;hellip; even if the last vestige of the opulaent skeumorphism remains.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Agenda</title>
