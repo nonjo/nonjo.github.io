@@ -3,44 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>http://localhost:1313/notes-on-notes/</loc>
     <lastmod>2019-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/agenda/</loc>
+=======
+    <loc>https://skeletron.app/agenda/</loc>
+>>>>>>> ae3e1e0e7a9f2e5f75ed3a5b210502eaa428eadb
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/welcome/</loc>
+    <loc>https://skeletron.app/welcome/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/another-test/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/testing/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://skeletron.app/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://skeletron.app/tags/</loc>
     <priority>0</priority>
   </url>
   
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
+
   
 </urlset>

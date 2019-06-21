@@ -1,7 +1,7 @@
 baseURL = "https://skeletron.app/"
 headerFontSize = 128
 languageCode = "en-us"
-publishDir = "/Users/anonnemacher/Sites/github/nonjo.github.io"
+publishDir = "/Users/alex/Sites/nonjo.github.io"
 theme = "skeletron"
 title = "Uncorrected"
 [github]

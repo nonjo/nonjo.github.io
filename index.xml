@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncorrected</title>
-    <link>http://localhost:1313/</link>
+    <link>https://skeletron.app/</link>
     <description>Recent content on Uncorrected</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://skeletron.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,38 +22,20 @@
     
     <item>
       <title>Agenda</title>
-      <link>http://localhost:1313/agenda/</link>
+      <link>https://skeletron.app/agenda/</link>
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/agenda/</guid>
+      <guid>https://skeletron.app/agenda/</guid>
       <description>&lt;p&gt;Agenda is a productivity app that boasts a distinctive visual style that is hard to ignore. It&amp;rsquo;s effectively a note-taking app, of which there are many for both the Mac and iOS, but some core features distinguish it from this crowded field.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Welcome to Skeletron</title>
-      <link>http://localhost:1313/welcome/</link>
+      <link>https://skeletron.app/welcome/</link>
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/welcome/</guid>
+      <guid>https://skeletron.app/welcome/</guid>
       <description>&lt;p&gt;Write something nice or drag an image to this window&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>another test</title>
-      <link>http://localhost:1313/another-test/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/another-test/</guid>
-      <description>&lt;p&gt;THis is another test&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>testing</title>
-      <link>http://localhost:1313/testing/</link>
-      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/testing/</guid>
-      <description>testing lLorem ipsum dolor sit amet, consectetuer adipiscing elit. Fusce risus. Quisque ac velit. Proin aliquam, dui a sodales nonummy, velit leo volutpat erat, porttitor molestie lectus ligula eget purus. Quisque laoreet purus tincidunt dolor. Morbi lacinia imperdiet nulla. Nam sed nisi id nisi imperdiet interdum. Sed sit amet diam. Fusce eget turpis. Nunc in nunc et justo tempus fermentum. Nam gravida, turpis eu semper pellentesque, leo leo porttitor mauris, eu volutpat leo tellus at purus.</description>
     </item>
     
   </channel>
